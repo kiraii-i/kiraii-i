@@ -1,5 +1,5 @@
 ## Hello, my name is Eyad `AKA` kiraii <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=“I think, therefore I am";Check+out+kiraii-i.github.io)](https://kiraii-i.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=“I+think,+therefore+I+am";Check+out+kiraii-i.github.io)](https://kiraii-i.github.io)
 - <//>
 ---
 ### 🌐 Social:
@@ -12,12 +12,12 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ### 📊 GitHub Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Kiraii-i&theme=noctis_minimus&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kiraii-i&theme=noctis_minimus&show_icons=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kiraii-i&theme=noctis_minimus)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraii-i&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 ### 🏆 GitHub Trophies:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=kiraii-i&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 ---
