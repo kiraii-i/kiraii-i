@@ -12,11 +12,11 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ### 📊 GitHub Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kiraii-i&theme=noctis_minimus&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiraii-i&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kiraii-i&theme=noctis_minimus)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraii-i&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraii-i&layout=compact&theme=radical)
 ### 🏆 GitHub Trophies:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=kiraii-i&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
