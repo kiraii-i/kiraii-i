@@ -16,7 +16,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kiraii-i&theme=noctis_minimus)](https://git.io/streak-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kiraii-i&show_icons=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kiraii-i)
 ### 🏆 GitHub Trophies:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=kiraii-i&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
